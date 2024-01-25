@@ -1,5 +1,5 @@
 title: Elias Aquina
-logo: assets/elias pro pic.jpg
+logo: assets/profilepic.jpg
 #description: text below image
-show_downloads: true
+show_downloads: false
 theme: jekyll-theme-minimal
