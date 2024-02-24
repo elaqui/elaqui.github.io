@@ -1,4 +1,11 @@
-# Cybersecurity
+## Professional Statement
+As a dedicated cybersecurity professional, I am committed to safeguarding digital assets and mitigating cyber threats in today's dynamic technological landscape. With a solid foundation in applied cybersecurity management and hands-on experience in network security, incident response, and ethical hacking, I strive to leverage my skills and knowledge to protect organizations from cyber risks.
+
+Driven by a passion for continuous learning and innovation, I actively pursue certifications and engage in immersive cybersecurity labs to stay ahead of emerging threats and industry best practices. My technical expertise encompasses a diverse range of cybersecurity tools and frameworks, including Splunk, MITRE ATT&CK, and Wireshark, enabling me to analyze complex security incidents and implement robust defense strategies.
+
+Through collaborative problem-solving and proactive risk assessment, I aim to bridge the gap between business objectives and cybersecurity requirements, ensuring alignment with regulatory compliance standards and industry benchmarks. My experience in technical support and project management has honed my ability to communicate effectively across multidisciplinary teams, facilitating seamless integration of security measures into organizational workflows.
+
+As I continue to expand my skill set and contribute to the cybersecurity community, I am driven by a shared vision of creating a secure and resilient digital ecosystem for individuals and enterprises alike. I am excited to embark on new challenges and opportunities that enable me to make meaningful contributions to the ever-evolving field of cybersecurity.
 
 #### Technical Expertise: Splunk, MITRE Att&ck, Wireshark
 
