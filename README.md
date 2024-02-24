@@ -7,8 +7,6 @@ Through collaborative problem-solving and proactive risk assessment, I aim to br
 
 As I continue to expand my skill set and contribute to the cybersecurity community, I am driven by a shared vision of creating a secure and resilient digital ecosystem for individuals and enterprises alike. I am excited to embark on new challenges and opportunities that enable me to make meaningful contributions to the ever-evolving field of cybersecurity.
 
-#### Technical Expertise: Splunk, MITRE Att&ck, Wireshark
-
 ## Certifications
 AWS Certified Cloud Practitioner | (Expected Completion: Feb. 2024) - Understands cloud computing concepts, services, and best practices.
 ISC2 Certified in Cybersecurity | (Expected Completion: Feb. 2024) - Demonstrates expertise in cybersecurity principles and practices.
