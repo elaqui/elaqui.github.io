@@ -3,19 +3,19 @@
 #### Technical Expertise: Splunk, MITRE Att&ck, Wireshark
 
 ## Certifications
-- AWS Certified Cloud Practitioner | (Expected Completion: Feb. 2024)
-- ISC2 Certified in Cybersecurity| (Expected Completion: Feb.. 2024)
-- ComTIA Security+ | (Expected Completion: Feb. 2024)
-- Google IT Support Professional Certificate | Dec 2023
-- AWS Cloud Quest: Cloud Practitioner | Oct. 2022
+AWS Certified Cloud Practitioner | (Expected Completion: Feb. 2024) - Understands cloud computing concepts, services, and best practices.
+ISC2 Certified in Cybersecurity | (Expected Completion: Feb. 2024) - Demonstrates expertise in cybersecurity principles and practices.
+CompTIA Security+ | (Expected Completion: Feb. 2024) - Validates foundational cybersecurity skills.
+Google IT Support Professional Certificate | Dec 2023 - Covers networking, system administration, security, and troubleshooting.
+AWS Cloud Quest: Cloud Practitioner | Oct. 2022 - Demonstrates understanding of AWS cloud services and architecture.
 
 
 ## Education
-- Grand Canyon University | Remote | December 2023 - January 2028
-  Applied Cybersecurity Management
-- Immersive Labs | Remote | 2024
-  Cybersecurity labs
-- Ancora Corporate Training | Remote | 2022 
+Grand Canyon University | Remote | December 2023 - January 2028
+Applied Cybersecurity Management
+Immersive Labs | Remote | 2024
+Cybersecurity labs
+Ancora Corporate Training | Remote | 2022
 IT CompTIA
 
 
@@ -61,6 +61,19 @@ Description: Developed a secure web application with authentication, authorizati
 Technologies: Python Flask, SQLAlchemy, WTForms
 GitHub Repository: [Link]
 
+## Programming Languages
+Python
+SQL
+Bash Scripting
+
+## Cybersecurity Tools
+Splunk: Used for log management, analysis, and security information and event management (SIEM).
+Wireshark: Network protocol analyzer for packet capture and analysis.
+Metasploit Framework: Penetration testing tool for exploiting vulnerabilities in networks and systems.
+Nmap: Network scanning tool for discovering hosts and services on a network.
+Snort: Open-source intrusion detection system (IDS) and intrusion prevention system (IPS).
+
+## Resume
 
 
 - [LinkedIn](https://www.linkedin.com/in/eliasaquina/)
